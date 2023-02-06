@@ -1,0 +1,23 @@
+{
+  "name": "scouting-modbus-reader",
+  "description": "Routine to communicate with for some PLCs including Siemens, ABB, Mitsubishi",
+  "version": "0.0.1",
+  "author": {
+    "name": "mgblow",
+    "email": "mgblow@gmail.com"
+  },
+  "keywords": [
+    "S7",
+    "S7/TCP",
+    "PLC"
+  ],
+  "main": "s7Reader.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgblow/scouting-s7-reader"
+  },
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "engine": "node 0.8.x"
+}
