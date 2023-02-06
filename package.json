@@ -1,5 +1,5 @@
 {
-  "name": "scouting-modbus-reader",
+  "name": "scouting-s7-reader",
   "description": "Routine to communicate with for some PLCs including Siemens, ABB, Mitsubishi",
   "version": "0.0.1",
   "author": {
